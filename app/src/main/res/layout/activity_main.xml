@@ -196,6 +196,18 @@
             android:adjustViewBounds="true"
             android:layout_margin="2dp"/>
 
+        <ImageView
+            android:id="@+id/iv_profile_pic"
+
+        <TextView
+            android:id="@+id/tv_name"
+
+        <TextView
+            android:id="@+id/tv_bio"
+
+        <Button
+            android:id="@+id/btn_edit_profile"
+
     </GridLayout>
 
 </RelativeLayout>
